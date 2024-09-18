@@ -1,5 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 linha escrita para branch main
 =======
 linha escrita somente na branch testing
+>>>>>>> testing
+=======
+linha escrita somente na branch testing
+
+asdfasdfasdfasdfasdf
 >>>>>>> testing
